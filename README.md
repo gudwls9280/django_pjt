@@ -82,3 +82,5 @@ post_detail 수정
 {% block main_area %}
 {post_detail 내용}
 {% endblock  %}
+
+4일차
